@@ -28,3 +28,20 @@ Client functionality:
   + See what's currently playing and recently played songs (maybe a way to add to their own playlists)
   + Analytics on recent plays/most played
   + Recommendations based on host spotify's recommended playlist(s)
+
+
+Tech stack
+==========
+
+Mobile/Web
+==========
+  + Framework: React/javascript (maybe typescript?)
+  + Ionic/Cordova
+
+Backend
+=======
+  + AWS Aurora for data storage
+  + AWS Lambda for scripting
+    + node
+    + Spotify SDK https://github.com/thelinmichael/spotify-web-api-node
+    + DB SDK - node-postgres and/or node-sql seems to be pretty popular

@@ -24,6 +24,7 @@ import '@ionic/react/css/display.css';
 import './theme/variables.css';
 
 const App: React.FC = () => (
+  // JSX -JavaScript eXtension
   <IonApp>
     <IonReactRouter>
       <IonRouterOutlet>

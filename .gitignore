@@ -144,3 +144,7 @@ tags
 .history
 
 # End of https://www.toptal.com/developers/gitignore/api/node,vim,visualstudiocode
+
+
+### SECRETS
+.db-credentials
